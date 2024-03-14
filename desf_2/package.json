@@ -1,0 +1,13 @@
+{
+  "name": "desf_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "desf_2.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
